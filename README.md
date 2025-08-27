@@ -1,8 +1,8 @@
 **Implemented with:**
 
-- Java 121
+- Java 21
 - JUnit 5.13.4
-- Serenity BDD framework v4.2.34
+- Serenity BDD framework 4.2.34
 
 ### Short installation guide: ###
 

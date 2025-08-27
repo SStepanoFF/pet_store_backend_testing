@@ -10,7 +10,6 @@ import java.time.Instant;
 @Data
 @Builder
 @JsonInclude(JsonInclude.Include.NON_NULL)
-//@JsonIgnoreProperties(ignoreUnknown = true)
 public class OrderRequestDto {
 
     public int id;
